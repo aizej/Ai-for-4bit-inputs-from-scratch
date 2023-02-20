@@ -34,5 +34,4 @@ and then we chose weights and biases that are better by good gueseses and error:
 
 
 at the end we graph it and do lil demo for testing:
-![Screenshot 2023-02-20 132304](https://user-images.githubusercontent.com/61479273/220112294-888f57dd-a3f6-4855-84d9-d3c566bf506e.png)
-
+![Screenshot 2023-02-20 134625](https://user-images.githubusercontent.com/61479273/220112546-949e679a-5902-45d2-ad54-fc0cf44919d2.png)
